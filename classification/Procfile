@@ -1,1 +1,1 @@
-web: gunicorn classification.wsgi --log-file -
+web: gunicorn classification.wsgi -b :8000
