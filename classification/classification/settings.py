@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-684hp26#*n9blx&2-$)fm54l3s^znigi9xx-_yqc2i$t1q*v$u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*','classificationtweet-production.up.railway.app']
 
 
 # Application definition
